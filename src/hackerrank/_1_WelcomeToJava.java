@@ -1,5 +1,5 @@
 // Link: https://www.hackerrank.com/challenges/welcome-to-java/problem
-package hackerrank.java;
+package hackerrank;
 
 public class _1_WelcomeToJava {
     public static void main(String[] args) {
