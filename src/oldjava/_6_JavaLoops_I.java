@@ -2,8 +2,6 @@ package oldjava;
 
 import java.io.*;
 
-import static java.util.stream.Collectors.joining;
-
 
 public class _6_JavaLoops_I {
     public static void main(String[] args) throws IOException {
