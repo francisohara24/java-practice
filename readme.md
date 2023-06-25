@@ -1,2 +1,2 @@
 # java-practice
-This is a repository containing programs I wrote to practice Java.
+Repository of programs I wrote to practice Java.
