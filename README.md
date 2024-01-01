@@ -1,2 +1,2 @@
 # java-practice
-Programs I wrote to practice Java.
+Small programs for practicing Java.
