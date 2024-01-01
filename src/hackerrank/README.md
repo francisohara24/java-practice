@@ -1,2 +1,2 @@
 # hackerrank
-Solutions to HackerRank Java problems.
+Solutions to Java HackerRank problems.
