@@ -1,4 +1,4 @@
-package _1_javafundamentals.assignment1.question1.binarysearch;
+package programming_with_java._1_javafundamentals.assignment1.question1.binarysearch;
 
 import java.util.Arrays;
 import java.util.Scanner;

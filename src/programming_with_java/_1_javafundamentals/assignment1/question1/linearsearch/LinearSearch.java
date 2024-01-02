@@ -1,4 +1,4 @@
-package _1_javafundamentals.assignment1.question1.linearsearch;
+package programming_with_java._1_javafundamentals.assignment1.question1.linearsearch;
 
 import java.util.Scanner;
 

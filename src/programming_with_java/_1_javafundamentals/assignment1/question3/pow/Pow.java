@@ -1,4 +1,4 @@
-package _1_javafundamentals.assignment1.question3.pow;
+package programming_with_java._1_javafundamentals.assignment1.question3.pow;
 
 import java.util.Scanner;
 

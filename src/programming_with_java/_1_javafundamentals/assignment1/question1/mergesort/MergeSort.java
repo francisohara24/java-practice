@@ -1,4 +1,4 @@
-package _1_javafundamentals.assignment1.question1.mergesort;
+package programming_with_java._1_javafundamentals.assignment1.question1.mergesort;
 
 import java.util.Arrays;
 

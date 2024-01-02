@@ -1,4 +1,4 @@
-package _1_javafundamentals.assignment1.question1.selectionsort;
+package programming_with_java._1_javafundamentals.assignment1.question1.selectionsort;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package _1_javafundamentals.assignment1.question2.welcometojava;
+package programming_with_java._1_javafundamentals.assignment1.question2.welcometojava;
 
 public class WelcomeToJava {
 

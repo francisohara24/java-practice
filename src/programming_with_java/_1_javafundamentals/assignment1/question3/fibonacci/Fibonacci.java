@@ -1,4 +1,4 @@
-package _1_javafundamentals.assignment1.question3.fibonacci;
+package programming_with_java._1_javafundamentals.assignment1.question3.fibonacci;
 import java.util.Scanner;
 public class Fibonacci {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package _1_javafundamentals.assignment1.question2.javadatatypes;
+package programming_with_java._1_javafundamentals.assignment1.question2.javadatatypes;
 
 import java.util.*;
 

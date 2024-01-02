@@ -1,4 +1,4 @@
-package _1_javafundamentals.assignment1.question3.factorial;
+package programming_with_java._1_javafundamentals.assignment1.question3.factorial;
 
 import java.util.Scanner;
 

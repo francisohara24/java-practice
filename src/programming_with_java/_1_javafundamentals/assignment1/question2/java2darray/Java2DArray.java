@@ -1,4 +1,4 @@
-package _1_javafundamentals.assignment1.question2.java2darray;
+package programming_with_java._1_javafundamentals.assignment1.question2.java2darray;
 
 import java.io.*;
 import java.util.*;

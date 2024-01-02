@@ -1,4 +1,4 @@
-package _1_javafundamentals.assignment1.question2.javastdinandstdout2;
+package programming_with_java._1_javafundamentals.assignment1.question2.javastdinandstdout2;
 
 import java.util.*;
 
