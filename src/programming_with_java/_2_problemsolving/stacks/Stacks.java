@@ -25,7 +25,7 @@ public class Stacks {
         // instantiate stack
         Stack stack = new Stack();
         Stack stack1 = new Stack(5);
-        Stack stack2 = new Stack(10, new int[] {1, 2, 3, 4, 5, 6, 7});
+        Stack stack2 = new Stack(10, new int[]{1, 2, 3, 4, 5, 6, 7});
 
         // peek
         System.out.println("Stack peek: " + stack.peek());  // Error 0
@@ -110,22 +110,20 @@ class Stack {
     }
 
     // peek
-    public int peek(){
+    public int peek() {
         if (top == -1) {
             System.out.println("Error! Stack is Empty!");
             return 0;
-        }
-        else
+        } else
             return data[top];
     }
 
     // pop
-    public int pop(){
-        if (top == -1){
+    public int pop() {
+        if (top == -1) {
             System.out.println("Error! Stack is Empty!");
             return 0;
-        }
-        else {
+        } else {
             int popped_element = data[top];
             top = top - 1;
             return popped_element;
