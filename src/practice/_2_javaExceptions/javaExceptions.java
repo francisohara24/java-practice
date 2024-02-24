@@ -1,6 +1,6 @@
-/* Author: Francis O'Hara
+/* Description: Test how to throw simple exceptions in java
+ * Author: Francis O'Hara
  * Date: 02-24-2024
- * Description: Test how to throw simple exceptions in java
  * */
 
 package practice._2_javaExceptions;
