@@ -33,6 +33,7 @@ public class GeneratingRandomValuesWithWeightedProbability {
             }
         }
 
+        System.out.println("Outcomes: " + outcomes);
         System.out.println("Number Of 0s: " + countOfZeros);  // should be close to 30
         System.out.println("Number Of 1s: " + countOfOnes);  // should be close to 70
     }
