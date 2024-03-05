@@ -6,7 +6,7 @@ package practice._3_javaHashMaps;
 
 import java.util.HashMap;
 
-public class javaHashMaps {
+public class JavaHashMaps {
     public static void main(String[] args){
         // instantiate hash map
         HashMap<Integer, String> map = new HashMap<>();

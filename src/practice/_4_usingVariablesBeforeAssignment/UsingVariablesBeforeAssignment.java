@@ -7,7 +7,7 @@ How to Run:  java -ea usingVariablesBeforeAssignment
 */
 package practice._4_usingVariablesBeforeAssignment;
 
-public class usingVariablesBeforeAssignment {
+public class UsingVariablesBeforeAssignment {
     public static void main(String[] args){
         // declare int and String variables
         int var1;
