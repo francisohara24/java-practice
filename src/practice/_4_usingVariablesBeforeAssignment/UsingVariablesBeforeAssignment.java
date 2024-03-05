@@ -14,8 +14,8 @@ public class UsingVariablesBeforeAssignment {
         String var2;
 
         // print variables without assignment
-        System.out.println(var1);
-        System.out.println(var2);
+//        System.out.println(var1);
+//        System.out.println(var2);
 
         // RESULTS
         /* build fails: variable might not have been initialized.
