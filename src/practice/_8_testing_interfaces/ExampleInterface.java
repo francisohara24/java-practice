@@ -10,5 +10,4 @@ package practice._8_testing_interfaces;
 public interface ExampleInterface {
      int add (int a, int b);
      int multiply (int a, int b);
-
 }
