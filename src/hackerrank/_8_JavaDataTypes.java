@@ -1,8 +1,10 @@
+// Link: https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true
+
 package hackerrank;
 
 import java.util.Scanner;
 
-public class _9_JavaDataTypes {
+public class _8_JavaDataTypes {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
