@@ -27,6 +27,9 @@ public class _14_JavaStringsIntroduction {
              if (a.charAt(i) > b.charAt(i)){
                  return true;
              }
+             else if (a.charAt(i) < b.charAt(i)){
+                 return false;
+             }
         }
         return false;
     }
