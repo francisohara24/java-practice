@@ -2,18 +2,18 @@
 
 package hackerrank;
 
-import java.util.Scanner;
 
 public class _16_JavaStringCompare {
     public static void main(String[] args){
-        Scanner scanner = new Scanner(System.in);
-        String word = scanner.next();
-        int k = scanner.nextInt();
-        String smallest = word.substring(k);
+        System.out.println(getSmallestAndLargest("ASDFHDSFHsdlfhsdlfLDFHSDLFHsdlfhsdlhkfsdlfLHDFLSDKFHsdfhsdlkfhsdlfhsLFDLSFHSDLFHsdkfhsdkfhsdkfhsdfhsdfjeaDFHSDLFHDFlajfsdlfhsdlfhDSLFHSDLFHdlfhs", 144));
+    }
+
+    public static String getSmallestAndLargest(String s, int k){
+        String smallest = s.substring(0, k);
         String biggest = smallest;
 
-        for (int i = 0; i < word.length() - k + 1; i++){
-            String substring = word.substring(i, i + k);
+        for (int i = 0; i < s.length() - k + 1; i++){
+            String substring = s.substring(i, i + k);
             if (lexicographicallyGreaterThan(substring, biggest)){
                 biggest = substring;
             }
@@ -21,8 +21,7 @@ public class _16_JavaStringCompare {
                 smallest = substring;
             }
         }
-
-        System.out.println(smallest + "\n" + biggest);
+        return smallest + "\n" + biggest;
     }
 
     private static boolean lexicographicallyGreaterThan(String a, String b){
